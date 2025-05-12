@@ -2,6 +2,8 @@ package codewars.kyu6;
 
 import java.util.Arrays;
 
+// Source: https://www.codewars.com/kata/550498447451fbbd7600041c
+
 public class AreSame {
 
     public static boolean comp(int[] a, int[] b) {

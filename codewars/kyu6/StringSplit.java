@@ -1,5 +1,7 @@
 package codewars.kyu6;
 
+// Source: https://www.codewars.com/kata/515de9ae9dcfc28eb6000001
+
 public class StringSplit {
     public static String[] solution(String s) {
         int l = s.length(); // Length of string
