@@ -3,7 +3,7 @@
 This repository contains my personal solutions to coding challenges from [Codewars](https://www.codewars.com/).
 
 ### Purpose
-- I'm using this repo to practice **Java fundamentals** through consistent problem-solving.
+- I'm using this repo to improve through consistent problem-solving.
 - This is part of my learning journey—not a showcase of perfect or optimized code.
 - If you're here looking to copy solutions: this isn't for you. Try solving them yourself first.
 
