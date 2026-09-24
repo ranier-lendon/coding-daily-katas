@@ -8,7 +8,11 @@ public class Solution {
             {
                 return new int[] {x, y};
             }
-            seen.Add(nums[x], x);
+
+            if (!seen.ContainsKey(nums[x]))
+            {
+                seen.Add(nums[x], x);
+            }
         }
         return new int[0];
     }
