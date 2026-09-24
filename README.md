@@ -1,6 +1,6 @@
 # Coding Daily Katas
 
-This repository contains my personal solutions to coding challenges from [Codewars](https://www.codewars.com/).
+This repository contains my personal solutions to coding challenges from [Codewars](https://www.codewars.com/) and [LeetCode](https://leetcode.com/).
 
 ### Purpose
 - I'm using this repo to improve through consistent problem-solving.
@@ -14,7 +14,10 @@ Feel free to browse or learn, but don’t expect production-level code. Feedback
 
 ---
 
-### 📎 My Codewars Profile
+### 📎 My Profiles
 
+**Codewars:**  
 [![Codewars](https://www.codewars.com/users/ranier-lendon/badges/large)](https://www.codewars.com/users/ranier-lendon)
 
+**LeetCode:**  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ranier-lendon?theme=dark)](https://leetcode.com/ranier-lendon)
